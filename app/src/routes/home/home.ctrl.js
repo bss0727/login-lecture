@@ -30,7 +30,7 @@ const process = {
 
         return res.json({
             success: false,
-            mag: "로그인에 실패하였습니다.",
+            msg: "로그인에 실패하였습니다.",
         })
     },
 };
